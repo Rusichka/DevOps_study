@@ -1,9 +1,14 @@
 # DevOps_study
 Полезные ссылки 
+
 https://git-scm.com/ 
+
 https://habr.com/ru/post/346634/ 
+
 https://habr.com/ru/post/353238/ 
+
 https://habr.com/ru/post/253877/ 
+
 
   Домашнее задание 1
 1. В настройках GitHub аккаунта настроить public key,
